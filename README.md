@@ -59,13 +59,13 @@ Tenho interesse especial em **Inteligência Artificial** e em como ela pode ser 
     <td width="50%">
       <h3>📊 Análise Exploratória de Dados</h3>
       <p>Projeto de exploração e limpeza de um conjunto de dados público, com tratamento de valores ausentes, padronização de colunas e geração de estatísticas descritivas utilizando <b>Pandas</b>.</p>
-      <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="50%">
       <h3>📈 Visualização de Dados com Seaborn</h3>
       <p>Conjunto de gráficos estatísticos (histogramas, boxplots, mapas de calor) criados para identificar padrões, correlações e outliers em bases de dados reais.</p>
-      <img src="https://img.shields.io/badge/Status-Em%20andamento-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square" />
       <img src="https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
@@ -73,13 +73,13 @@ Tenho interesse especial em **Inteligência Artificial** e em como ela pode ser 
     <td width="50%">
       <h3>🤖 Automação com Apoio de IA</h3>
       <p>Estudo prático sobre o uso de ferramentas de Inteligência Artificial para acelerar etapas de limpeza, análise e documentação de dados no dia a dia.</p>
-      <img src="https://img.shields.io/badge/Status-Estudo%20contínuo-informational?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square" />
       <img src="https://img.shields.io/badge/IA-purple?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="50%">
       <h3>🗂️ Dashboard de Indicadores</h3>
       <p>Construção de painéis simples para acompanhamento de métricas, unindo tratamento de dados em Pandas com visualizações claras em Seaborn.</p>
-      <img src="https://img.shields.io/badge/Status-Planejado-lightgrey?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square" />
       <img src="https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas&logoColor=white" />
     </td>
   </tr>
@@ -127,9 +127,9 @@ Tenho interesse especial em **Inteligência Artificial** e em como ela pode ser 
 [✔] Manipulação de dados com Pandas
 [✔] Visualização de dados com Seaborn
 [✔] Configuração e uso do VS Code
-[🔄] Aplicação de Inteligência Artificial em projetos de dados
-[🔄] Construção de portfólio com projetos práticos de análise de dados
-[ ] Projetos avançados de Machine Learning
+[✔] Aplicação de Inteligência Artificial em projetos de dados
+[✔] Construção de portfólio com projetos práticos de análise de dados
+[✔] Projetos avançados de Machine Learning
 ```
 
 ---
