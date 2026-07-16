@@ -113,10 +113,14 @@ Tenho interesse especial em **Inteligência Artificial** e em como ela pode ser 
 ## 🐍 Mapa de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/breno209/breno209/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./contribution-graph.svg" alt="Gráfico de contribuições de julho" />
 </p>
 
-> ⚙️ *Essa animação é gerada automaticamente a partir das minhas contribuições no GitHub. Para ativá-la, basta configurar a GitHub Action "snk" no repositório — posso te mostrar o passo a passo se quiser.*
+<p align="center">
+  <sub>📌 Contribuições registradas nos dias <b>03</b>, <b>06</b>, <b>08</b>, <b>14</b> e <b>15</b> de julho de 2026.</sub>
+</p>
+
+> ⚙️ *Este gráfico foi personalizado manualmente para destacar essas datas. Se preferir um gráfico que se atualize sozinho com base na sua atividade real, também é possível configurar a animação automática "snake" via GitHub Actions — posso te mostrar o passo a passo se quiser.*
 
 ---
 
